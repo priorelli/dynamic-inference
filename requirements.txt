@@ -1,0 +1,6 @@
+matplotlib==3.10.3
+numpy==2.3.0
+pyglet==2.1.6
+pymunk==6.11.1
+seaborn==0.13.2
+torch==2.7.0
